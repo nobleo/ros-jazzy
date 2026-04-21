@@ -199,3 +199,5 @@ tf_transformations:
   build_number: 17
 controller_manager:
   build_number: 17
+rosbridge_library:
+  build_number: 17
