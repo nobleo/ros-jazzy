@@ -197,3 +197,5 @@ ament_xmllint:
   build_number: 17
 tf_transformations:
   build_number: 17
+controller_manager:
+  build_number: 17
